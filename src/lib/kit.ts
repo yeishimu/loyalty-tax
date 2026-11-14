@@ -59,7 +59,7 @@ export function buildKit(result: CheckResult): Kit {
   const employer = displayName(own);
   const posted = formatPay(match.posting.pay!);
   const exact = match.confidence === 'strong';
-  const roleRef = exact ? 'my role' : 'a role very close to mine';
+  const roleRef = exact ? 'your role' : 'a role very close to yours';
 
   // Ask for the middle of the posted range when below it; the next quarter up when inside it.
   const span = gap.max - gap.min;

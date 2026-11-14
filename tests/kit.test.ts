@@ -10,7 +10,7 @@ describe('raise kit', () => {
     const r = await check('lyft', 'Accountant', 65000);
     expect(kitAvailable(r)).toBe(true);
     const kit = buildKit(r);
-    expect(kit.headline).toContain('$72,000 to $90,000');
+    expect(kit.headline).toContain('advertising your role at $72,000 to $90,000');
     expect(kit.headline).toContain('$7,000 below');
     expect(kit.evidence[0]).toMatchObject({ own: true, pay: '$72,000 to $90,000' });
     expect(kit.email.body).toContain(r.own.match!.posting.url);
