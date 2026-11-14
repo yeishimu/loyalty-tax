@@ -1,0 +1,89 @@
+Checking 30 employers...
+
+stripe         greenhouse  US postings:  273  with pay:   19 (7%)
+    e.g. Credit Risk, Fraud Strategist | South San Francisco | $121,600.00 - $182,400.00
+    e.g. Customer Success Manager, Enterprise | Chicago, US | $113,672 - $144,750
+airbnb         greenhouse  US postings:   93  with pay:   92 (99%)
+    e.g. Business Operations and Growth Lead | United States  | $168,000 - $203,000
+    e.g. Category Lead, Airbnb Services | United States | $168,000 - $203,000
+ramp           greenhouse  US postings:    0  with pay:    0 (0%)
+notion         ashby       US postings:   78  with pay:   78 (100%)
+    e.g. Software Engineer, AI Connections (Developer Platform) | San Francisco, California | $272,000 - $304,000
+    e.g. Business Development Representative, New York | New York, New York | $38.70 per hour - $100,000
+figma          greenhouse  US postings:   92  with pay:   82 (89%)
+    e.g. Account Executive, Enterprise | San Francisco, CA • New York, NY • United States | $165,000 - $190,000
+    e.g. Account Executive, Public Sector - State & Local | San Francisco, CA | $165,000 - $190,000
+databricks     greenhouse  US postings:  440  with pay:  410 (93%)
+    e.g. Accounting Data & Technology Manager | Mountain View, California; San Francisco, California | $145,700 - $200,300
+    e.g. Accounting Manager, Accounts Receivable | California; New York; Remote - Colorado; Remote - Georgia; Remote - Ohio; Remote - Oregon; Remote - Pennsylvania; Remote - Texas; Remote - Washington; Remote - Washington D.C. | $128,000 - $176,000
+discord        greenhouse  US postings:   22  with pay:   21 (95%)
+    e.g. Account Executive, Mobile Gaming | San Francisco Bay Area | $272,000 - $306,000
+    e.g. Associate Commercial Counsel | San Francisco Bay Area or Remote (U.S.) | $200,000 - $225,000
+reddit         greenhouse  US postings:  120  with pay:  120 (100%)
+    e.g. Analytics Engineer | Remote - United States | $164,200 - $229,990
+    e.g. Associate General Counsel, Ads Product | Remote - United States | $266,000 - $372,400
+pinterest      greenhouse  US postings:  130  with pay:  110 (85%)
+    e.g. B2B Growth Marketing Manager | San Francisco, CA, US; Remote, US | $110,494 - $227,486
+    e.g. Business Development, AI Product Partnerships | San Francisco, CA, US; Remote, US | $110,494 - $227,486
+lyft           greenhouse  US postings:   77  with pay:   70 (91%)
+    e.g. Accountant, Lease & Fleet | San Francisco, CA | $72,000 - $90,000
+    e.g. Accountant, Lease & Fleet | New York, NY | $72,000 - $90,000
+instacart      greenhouse  US postings:   83  with pay:   79 (95%)
+    e.g. Account Manager | United States - Remote | $86,000 - $106,500
+    e.g. Activation Sales Development Representative II | United States - Remote | $56,000 - $60,000
+doordash       not found   US postings:    0  with pay:    0 (0%)
+robinhood      greenhouse  US postings:  137  with pay:  117 (85%)
+    e.g. Accounts Receivable Operations Analyst | Menlo Park, CA | $85,000 - $100,000
+    e.g. AML Investigator | Denver, CO; New York, NY; Westlake, TX | $94,000 - $110,000
+coinbase       greenhouse  US postings:  181  with pay:  155 (86%)
+    e.g. Accounting Manager, GL Operations & Intercompany | Remote - USA | $166,345 - $195,700
+    e.g. Accounting Manager, Lending & Credit Products | Remote - USA | $166,345 - $195,700
+plaid          ashby       US postings:  130  with pay:  130 (100%)
+    e.g. Strategic Initiatives | San Francisco HQ | $189.6K - $290.4K
+    e.g. TechOps Site Support | Seattle Office | $118.8K - $140.4K
+brex           greenhouse  US postings:  232  with pay:  232 (100%)
+    e.g. Accountant Partnerships Manager | New York, New York, United States | $135,600 - $169,500
+    e.g. Accountant Partnerships Manager | San Francisco, California, United States | $135,600 - $169,500
+gusto          greenhouse  US postings:   75  with pay:   67 (89%)
+    e.g. Channel Partnerships Manager, Investor Ecosystems (VC & PE) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Toronto, Ontario - Remote | $153,000 - $195,000
+    e.g. Data Scientist, Risk  | San Francisco, CA - Hybrid | $186,000 - $230,000
+asana          greenhouse  US postings:   41  with pay:   41 (100%)
+    e.g. AI GTM Account Executive | San Francisco | $290,000 - $330,000
+    e.g. Benefits Manager, NAMER | San Francisco | $164,000 - $186,000
+dropbox        greenhouse  US postings:   18  with pay:   18 (100%)
+    e.g. Account Executive | Remote - US: Select locations | $146,500 - $198,300
+    e.g. Application Security Engineer | Remote - US: Select locations | $193,500 - $261,900
+twilio         greenhouse  US postings:   39  with pay:   38 (97%)
+    e.g. Account Executive 4 | Remote - US | $110,160 - $137,700
+    e.g. Americas Sales Business Partner Manager | Remote - US | $116,960 - $146,200
+cloudflare     greenhouse  US postings:    0  with pay:    0 (0%)
+datadog        greenhouse  US postings:  210  with pay:  209 (100%)
+    e.g. Accounts Payable Analyst | New York, New York, USA | $59,000 - $79,000
+    e.g. AI Research Scientist - Datadog AI Research (DAIR) | New York, New York, USA; Pittsburgh, Pennsylvania, USA | $320,000 - $400,000
+duolingo       greenhouse  US postings:   46  with pay:   42 (91%)
+    e.g. Ad Sales Lead, Programmatic | New York, NY | $152,000 - $228,000
+    e.g. Ad Sales Lead - West | Remote - California | $152,000 - $228,000
+peloton        greenhouse  US postings:   20  with pay:   17 (85%)
+    e.g. Associate Production Director | New York, New York | $84,250 - $99,650
+    e.g. Electrical Engineer III | Woodinville, Washington | $109,100 - $129,050
+chime          greenhouse  US postings:   71  with pay:   70 (99%)
+    e.g. AI/ML Engineer | Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA | $125,000 - $292,000
+    e.g. Business Control Manager | Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA | $127,000 - $175,000
+affirm         greenhouse  US postings:  100  with pay:   91 (91%)
+    e.g. Accounting Manager | Remote US | $ 145,000 - $ 205,000
+    e.g. Analyst, Early Career (Full Stack) | New York, New York, United States; San Francisco, California, United States | $115,000
+sofi           greenhouse  US postings:   46  with pay:    1 (2%)
+    e.g. Insurance Agent, Protect | United States | $41k - $100k
+squarespace    greenhouse  US postings:   11  with pay:   11 (100%)
+    e.g. Director, Corporate Communications | New York City | $203,500 - $327,750
+    e.g. Enterprise Transformation, Senior Lead  | New York City | $178,500 - $250,000
+etsy           not found   US postings:    0  with pay:    0 (0%)
+zillow         not found   US postings:    0  with pay:    0 (0%)
+
+===== SUMMARY =====
+Employers with a reachable public job board: 27 of 30
+Employers with at least one US posting stating pay: 25 of 27
+US postings stating pay: 2320 of 2765 (84%)
+
+Pass mark is 40% of employers usable. Result: PASS (93%)
+
