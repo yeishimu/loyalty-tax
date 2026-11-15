@@ -2,6 +2,8 @@
 
 **Is your employer advertising your job for more than it pays you?**
 
+**Live:** https://loyalty-tax.vercel.app &nbsp;|&nbsp; **Pitch deck:** [docs/Loyalty-Tax-pitch.pdf](docs/Loyalty-Tax-pitch.pdf)
+
 Pay-transparency laws make companies print salary ranges in their job ads. Loyalty Tax reads your own employer's live job postings, finds the one for your role and level, and shows its pay range next to your salary. If there is a gap, it sells you a kit for the raise conversation and can watch for new postings.
 
 - **User:** a salaried US employee, 28 to 45, three or more years in the same role at a tech or startup employer.
@@ -68,6 +70,7 @@ Measured on 14 November 2026 (`research/`):
 
 - **Coverage:** of 30 tech and fintech employers, 27 had a readable public board, 25 of those published pay, and 2,320 of 2,765 US postings (84%) stated a range.
 - **Matching:** on 20 sample employees, a first rules-only matcher gave 18 acceptable outcomes. The two failures (a Staff engineer matched to Senior Staff, a missed finance analyst) are now regression tests.
+- **Production:** on 15 November 2026 the deployed app answered seven real checks against live job boards, each in under three seconds: correct matches for Lyft, Reddit, Notion, Figma and Coinbase, a correct "no match" for a title Asana is not advertising, and a correct "no public board" for a made-up employer.
 - **Demand:** in Paychex's 2026 survey, 21% of US employees had seen their own job advertised for more by their current employer, and 64% of those who saw a higher posting never asked for a raise.
 
 ## Limits
